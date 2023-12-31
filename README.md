@@ -3,3 +3,8 @@
 #first code
 
 print("hello world")
+
+#function 
+def hello(){
+print("hello user")
+}
